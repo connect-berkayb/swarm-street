@@ -15,3 +15,9 @@ a{color:var(--accent)}
 .mail{font-weight:700;user-select:all;word-break:break-all}
 footer{margin-top:3rem;border-top:1px solid var(--line);padding-top:1rem;color:var(--muted);font-size:.9rem}
 nav a{margin-right:1rem}
+h3{font-size:1rem;margin:1.4rem 0 .3rem;color:var(--head)}
+.tablewrap{overflow-x:auto;margin:1rem 0}
+table{border-collapse:collapse;width:100%;font-size:.95rem}
+th,td{border:1px solid var(--line);padding:.5rem .6rem;text-align:left;vertical-align:top}
+th{background:var(--card)}
+ol{padding-left:1.4rem}
